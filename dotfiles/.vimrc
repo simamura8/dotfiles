@@ -21,6 +21,7 @@ Plugin 'vim-syntastic/syntastic'
 Plugin 'osyo-manga/vim-watchdogs'
 Plugin 'nathanaelkane/vim-indent-guides'
 Plugin 'soramugi/auto-ctags.vim'
+Plugin 'tomasr/molokai'
 
 
 call vundle#end()
