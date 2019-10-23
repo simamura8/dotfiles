@@ -21,6 +21,7 @@ alias ga='git add -u'
 alias gc='git commit -m'
 alias gb='git branch'
 alias gd='git diff'
+alias gp='git push'
 
 #laravel
 alias cddev="cd /var/www/front"
