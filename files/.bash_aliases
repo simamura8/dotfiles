@@ -5,6 +5,7 @@ alias ll='ls -alF'
 alias la='ls -A'
 alias l='ls -CF'
 alias ..='cd ..'
+alias ...='cd ~'
 alias wget='wget -c'
 
 # enable color support of ls and also add handy aliases
