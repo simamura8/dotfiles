@@ -42,5 +42,4 @@ alias pam='php artisan migrate'
 alias par='php artisan migrate:rollback'
 
 # on_windows
-alias cdimamura="cd /mnt/c/Users/EC07/imamura"
-alias cddesk="cd /mnt/c/Users/EC07/Desktop"
+alias cdshow="cd /mnt/c/Users/勝一郎"
