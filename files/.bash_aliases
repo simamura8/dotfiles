@@ -42,7 +42,7 @@ alias pam='php artisan migrate'
 alias par='php artisan migrate:rollback'
 
 # on_windows
-alias cdshow="cd /mnt/c/Users/勝一郎"
-alias cddoc="cd /mnt/c/Users/勝一郎/Documents"
-alias cdwork="cd /mnt/c/Users/勝一郎/Documents/workspace"
-alias cdobsidian="cd /mnt/c/Users/勝一郎/iCloudDrive/Obsidian"
+alias cdhome="cd \"${WIN_HOME}\""
+alias cddoc="cd \"${WIN_HOME}/Documents\""
+alias cdwork="cd \"${WIN_HOME}/Documents/workspace\""
+alias cdobsidian="cd \"${WIN_HOME}/iCloudDrive/Obsidian\""

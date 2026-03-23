@@ -5,6 +5,11 @@ if [ -f ~/.bash_aliases ]; then
     . ~/.bash_aliases
 fi
 
+#bashrc_localgの読み込み
+if [ -f ~/.bashrc_local ]; then
+    source ~/.bashrc_local
+fi
+
 
 #色を保持
 LBLUE='\[\e[36;40m\]'
